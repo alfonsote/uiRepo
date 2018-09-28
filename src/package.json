@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "https:": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "prodoctivity"
+  ],
+  "name": "custom-widget-form",
+  "description": ""
+}
